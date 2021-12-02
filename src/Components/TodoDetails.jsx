@@ -13,7 +13,7 @@ import { deleteTodo, editTodo } from "../Redux/todo/action";
 
 const useStyle = makeStyles((item) => ({
   editRoot: {
-    boxShadow: "1px 1px 8px 6px rgb(176, 255, 196)",
+    boxShadow: "1px 1px 8px 6px #FF4500",
     borderRadius: "5px",
     width: "40%",
     margin: "auto",
